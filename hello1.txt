@@ -5,3 +5,4 @@ this is the 2nd line
 5th line added from local repo.
 this is the 6th line in repo.
 7th line added from remote.
+8th line added from remote.
